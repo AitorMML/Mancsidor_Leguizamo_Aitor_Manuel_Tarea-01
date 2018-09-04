@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Sesión 5</string>
+    <string name="activity_main_name">Ingrese su nombre</string>
+    <string name="activity_main_phone">Ingrese su teléfono</string>
+    <string name="activity_main_escolaridad">Escolaridad</string>
+    <string name="activity_main_genero">Género</string>
+    <string name="activity_main_fem">Femenino</string>
+    <string name="activity_main_masc">Masculino</string>
+    <string name="activity_main_book">Libro favorito</string>
+    <string name="activity_main_sport">Practica deporte</string>
+    <string name="activity_main_clean">Limpiar</string>
+    <string name="popup_menu_clean">¿Desea limpiar el contenido?</string>
+    <string name="popup_positive">OK</string>
+    <string name="popup_negative">Cancel</string>
+    <string name="menu_save">Guardar</string>
+    
+    <string-array name="books_array">
+        <item>Harry Potter</item>
+        <item>La Biblia</item>
+        <item>La Guerra de los Mundos</item>
+        <item>Parque Jurásico</item>
+        <item>Aura</item>
+    </string-array>
+    <string-array name="school_array">
+        <item>Bachillerato</item>
+        <item>Técnico</item>
+        <item>Licenciatura</item>
+        <item>Maestría</item>
+        <item>Doctorado</item>
+    </string-array>
+</resources>
